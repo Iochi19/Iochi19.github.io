@@ -892,6 +892,7 @@ kbd {
   z-index: 0;
   width: 100%;
   height: 100%;
+  background: url("https://png.pngtree.com/thumb_back/fw800/background/20230516/pngtree-row-of-yellow-and-red-sports-cars-sitting-on-the-sidewalk-image_2571835.jpg") no-repeat center/cover;
 }
 .header-banner-info {
   position: absolute;
@@ -1042,6 +1043,7 @@ kbd {
   opacity: 1;
   -ms-filter: none;
   filter: none;
+  border-radius: 50%;
 }
 .sidebar-ov-author__avatar:hover .sidebar-ov-author__avatar_img {
   -webkit-animation: avatar-turn 0.8s both ease-out;
